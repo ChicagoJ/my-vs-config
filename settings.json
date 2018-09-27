@@ -1,0 +1,16 @@
+{
+    "window.zoomLevel": 2,
+    "extensions.ignoreRecommendations": false,
+    "vsicons.projectDetection.autoReload": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "Nord",
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 13,
+    "editor.lineHeight": 25,
+    "workbench.activityBar.visible": false,
+    "terminal.integrated.lineHeight": 1.8,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "editor.formatOnSave": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+}
